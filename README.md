@@ -11,7 +11,7 @@ A collection of basic [file actions](https://www.alfredapp.com/blog/tips-and-tri
 
 ## Installation
 
-Download the workflow from [Releases](./releases). Install in Alfred.
+Download the workflow from [Releases](https://github.com/thirteen37/alfred-image-utils/releases/latest). Install in Alfred.
 
 ## Usage
 
